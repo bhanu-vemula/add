@@ -1,0 +1,8 @@
+class AddC{
+   public static void main(String[] ar)
+{
+int a=Integer.parseInt(ar[0]);
+int b=Integer.parseInt(ar[0]);
+system.out.println("result is:"+(a+b));
+}
+}
